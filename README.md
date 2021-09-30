@@ -2,7 +2,7 @@
   <img src="https://github.com/Pauloricardorc/ImagensProfile/blob/master/wallpaperProfile.png?raw=true" alt="profile image" />
 </p>
 
-### Olá meu nome e Paulo sou programador a mais de 1 ano tenho experiência em várias áreas de tenho bastante vontade de aprender e buscar conhecimento colocando em pratica tudo que me foi absorvido durante minha jornada até aqui, gosto de pensar em ídeias que outras pessoas ainda não tenham pesado e gosto de colocar a mão na massa VAMO CODA 👨‍💻 👋
+### Olá meu nome e Paulo sou programador a mais de 1 ano tenho experiência em várias áreas de tenho bastante vontade de aprender e buscar conhecimento colocando em pratica tudo que me foi absorvido durante minha jornada até aqui, gosto de pensar em idéias que outras pessoas ainda não tenham pesado e gosto de colocar a mão na massa VAMO CODA 👨‍💻 👋
 
 <hr/>
 
